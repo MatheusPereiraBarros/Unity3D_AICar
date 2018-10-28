@@ -1,0 +1,16 @@
+# 3ds Max Wavefront OBJ Exporter v0.97b - (c)2007 guruware
+# File Created: 15.11.2016 20:19:58
+
+newmtl cylinder3_auv
+	Ns 100.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 0.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 1.0000 1.0000 1.0000
+	Kd 1.0000 1.0000 1.0000
+	Ks 1.0000 1.0000 1.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka C:\Users\Me\Desktop\Car Model By Flat Tutorials\Car Model By Flat Tutorials\Wheel.tif
+	map_Kd C:\Users\Me\Desktop\Car Model By Flat Tutorials\Car Model By Flat Tutorials\Wheel.tif

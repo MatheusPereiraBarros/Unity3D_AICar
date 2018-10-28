@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 426a19ce4bfb3034da3151506970bf81
+timeCreated: 1492454376
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - AICarPrefab: {fileID: 1000013283782098, guid: 9d720ba4f868dcb49b6a4c0f863cf1a3,
+      type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

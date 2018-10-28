@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 6df67d224e263c9419438bea0e8dc486
+timeCreated: 1479946824
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - theSkidSound: {fileID: 1000012257556088, guid: 5325f59ffcc138f4b8b5e97355bb0f2e,
+      type: 2}
+  - skidMarkMeterial: {fileID: 2100000, guid: 67c48cbf90ffccc488a90ab7fe1264b4, type: 2}
+  - skidSmoke: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
